@@ -3,7 +3,7 @@
  * FOOTER
  * @package WordPress
  * @subpackage FoundationWP
- * @since FoundationWP 1.0ASasaSASDASD
+ * @since FoundationWP 1.0
  */
 ?>
 
